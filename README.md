@@ -1,2 +1,7 @@
-# AI-ML
-Learning and Exploring Artificial Intelligence and Machine Learning
+# Artificial Intelligence and Machine Learning
+
+> Check out the detailed course summary and notes.
+
+## Courses
+
+- [Introduction To Generative AI](Introduction-To-Generative-AI.md)
